@@ -1,0 +1,39 @@
+ [
+    {
+      "name": "Bank Du Caire",
+      "rating": 4,
+      "address": "7876+MQ3, Port Fouad City",
+      "location": {
+        "lat": 31.2640443,
+        "lng": 32.3118452
+      }
+    },
+    {
+      "name": "Banque du Caire ATM",
+      "rating": 0,
+      "address": "779G+2V, El Manakh",
+      "location": {
+        "lat": 31.2675897,
+        "lng": 32.2771768
+      }
+    },
+    {
+      "name": "Bank Cairo ATM",
+      "rating": 5,
+      "address": "775V+M47, El-Nasr, Al Ezab, Al Arab",
+      "location": {
+        "lat": 31.2591733,
+        "lng": 32.292805
+      }
+    },
+    {
+      "name": "A T M. Cairo Bank",
+      "rating": 3,
+      "address": "68X6+JGP, Port Said Al Daerah Al Gomrokia",
+      "location": {
+        "lat": 31.2490759,
+        "lng": 32.3113393
+      }
+    }
+  ]
+

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bank Misr ATM",
+        "rating": "3.7 (Total reviews: 7)",
+        "address": "779F+GV2, Al Zehour, El Manakh",
+        "location": {"latitude": 31.2688704, "longitude": 32.2746729}
+    },
+    {
+        "name": "Bank Misr ATM",
+        "rating": "4.0 (Total reviews: 2)",
+        "address": "7798+2FP, Port Said, El-Zohour, El-Manakh",
+        "location": {"latitude": 31.2675822, "longitude": 32.26620460000001}
+    },
+    {
+        "name": "Bank Misr ATM",
+        "rating": "4.8 (Total reviews: 5)",
+        "address": "7838+65F, El-Gomhoreya, Port Fouad City",
+        "location": {"latitude": 31.2530525, "longitude": 32.315424}
+    },
+    {
+        "name": "ATM Banque Misr",
+        "rating": "2.3 (Total reviews: 3)",
+        "address": "77FJ+2RQ, Saad Zaghloul, Al Arab",
+        "location": {"latitude": 31.2725866, "longitude": 32.2821249}
+    },
+    {
+        "name": "Atm بنك مصر",
+        "rating": "3.5 (Total reviews: 6)",
+        "address": "775X+X24, Al Shohadaa, El Sharq",
+        "location": {"latitude": 31.2598978, "longitude": 32.2975682}
+    },
+    {
+        "name": "ماكينة صراف آلي بنك مصر ATM",
+        "rating": "4.6 (Total reviews: 5)",
+        "address": "7767+89 Al Zohour",
+        "location": {"latitude": 31.26096, "longitude": 32.26339}
+    },
+    {
+        "name": "Atm بنك مصر",
+        "rating": "3.5 (Total reviews: 2)",
+        "address": "7863+28F, Port Said Al Daerah Al Gomrokia",
+        "location": {"latitude": 31.2600589, "longitude": 32.303306}
+    },
+    {
+        "name": "Banque Misr",
+        "rating": "3.5 (Total reviews: 24)",
+        "address": "7865+HPP, Port Fouad City",
+        "location": {"latitude": 31.2614543, "longitude": 32.3093383}
+    },
+    {
+        "name": "Banque Misr ATM",
+        "rating": "0 (No reviews)",
+        "address": "779G+2WG, El-Nasr Road, El Manakh",
+        "location": {"latitude": 31.2675536, "longitude": 32.2773284}
+    },
+    {
+        "name": "ماكينة بنك مصر",
+        "rating": "0 (No reviews)",
+        "address": "777F+Q52, Al Asher Men Ramadan, Al Zehour, El Manakh",
+        "location": {"latitude": 31.2643662, "longitude": 32.2728606}
+    }
+]

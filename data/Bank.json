@@ -1,0 +1,28 @@
+[{   "bankId": "1",
+    "name": "National Bank of Egypt البنك الاهلي المصري",
+    "logoUrl": "https://taamir-sec.com/wp-content/uploads/2021/06/Picture9.png"
+},
+{    "bankId": "2",
+   "name":"Banque Misr بنك مصر",
+   "logoUrl":"https://www.sis.gov.eg/Content/Upload/slider/3201812102342152.jpg"
+},
+{
+     "bankId": "3",
+    "name":"CIB Egypt",
+    "logoUrl":"https://www.firstbankeg.com/UserFiles/NewsSizes/1920/2022/02/07/1546.jpg?220207170229"
+},
+{
+     "bankId": "4",
+    "name":"Alex Bank بنك اسكندريه",
+    "logoUrl":"https://www.citystars-heliopolis.com.eg/public/images/brand_logo/Sk_vQmPFfe-main.jpeg?1507715957895"
+},
+{     "bankId": "5",
+    "name":"Banque du Caire بنك القاهرة",
+    "logoUrl":"https://akhbaralmal.com/wp-content/uploads/2023/10/%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9.webp"
+},
+{
+     "bankId": "6",
+    "name":"HSBC Bank",
+    "logoUrl":"https://www.firstbankeg.com/UserFiles/FBanks/10.jpg?20241030132505 "
+}
+]

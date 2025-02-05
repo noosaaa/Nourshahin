@@ -1,0 +1,164 @@
+[
+    {   "bankId": 3,
+        "name": "CIB",
+        "rating": 5,
+        "address": "7876+685, El Sharq",
+        "location": {
+            "latitude": 31.2630017,
+            "longitude": 32.3108604
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "مصنع - المنطقه الصناعيه, مجمع 54, مصنع إيدج للملابس - وحدات رقم 65و66",
+        "location": {
+            "latitude": 31.22250,
+            "longitude": 32.28785
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "مستشفى عطاء - شارع الامين والحرية - بجوار, قصر ثقافة بورسعيد، حي, El Manakh",
+        "location": {
+            "latitude": 31.2616239,
+            "longitude": 32.2856129
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - ATM",
+        "rating": 4.1,
+        "address": "مستشفى ال سليمان - 12 شارع الامين - تقاطع, Saad Zaghloul, حى, El Manakh, Port Said Governorate 8563130",
+        "location": {
+            "latitude": 31.2693957,
+            "longitude": 32.2922903
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "داخل الهيئة العامة للاستثمار والمناطق الحرة - حى شرق, Al Shohadaa, El Sharq",
+        "location": {
+            "latitude": 31.2472082,
+            "longitude": 32.2974216
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - Commercial International Bank - ATM",
+        "rating": 4.2,
+        "address": "ش Tarh Al Bahr, حى الشرق، El Sharq",
+        "location": {
+            "latitude": 31.2670361,
+            "longitude": 32.3122386
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "مصنع سومو تومو لصناعه كابلات وضفاير السيارات - المنطقة الصناعية الجنوبية, Al Ganoub",
+        "location": {
+            "latitude": 31.2227563,
+            "longitude": 32.2936867
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "مصنع حديد مصر - المنطقة الصناعية - الرسوة, Al Ganoub",
+        "location": {
+            "latitude": 31.2247555,
+            "longitude": 32.2919536
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "فندق أراكان, شارع عاطف السادات, El Sharq",
+        "location": {
+            "latitude": 31.2710926,
+            "longitude": 32.3080461
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "أوبرا كافيه, El-Shaheed Atef El-Sadat, El Manakh",
+        "location": {
+            "latitude": 31.2719417,
+            "longitude": 32.2944738
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB",
+        "rating": 4,
+        "address": "برج الكاميليا - شارع الجيش, El-Shaheed Gawad Housny, تقاطع, Port Fouad City",
+        "location": {
+            "latitude": 31.2542083,
+            "longitude": 32.3201195
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB",
+        "rating": 0,
+        "address": "1 شارع اطف السادات, تقسيم الامل, Al Arab",
+        "location": {
+            "latitude": 31.2708406,
+            "longitude": 32.3000752
+        }
+    },
+    {  "bankId": 3,
+        "name": "CIB",
+        "rating": 4,
+        "address": "بجوار البنك الاهلى المصرى, شارع 23 يوليو, تقاطع شارع ابو الفدا, El Sharq",
+        "location": {
+            "latitude": 31.2675921,
+            "longitude": 32.3119238
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "رويال لمستحضرات التجميل, كيلو 5 Ismailia - Port Said Rd, Al Ganoub, Port Said Governorate 8528002",
+        "location": {
+            "latitude": 31.20847,
+            "longitude": 32.29732
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB Bank",
+        "rating": 4.6,
+        "address": "77FQ+35M, Al Zaim Ghandi, El Manakh, Port Said Governorate 8563111",
+        "location": {
+            "latitude": 31.27285,
+            "longitude": 32.28790
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "صندوق بريد 247, المنطقة الجمركية, ميناء شرق, Port Said Governorate",
+        "location": {
+            "latitude": 31.21278,
+            "longitude": 32.36155
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB - Commercial International Bank - ATM",
+        "rating": 4.6,
+        "address": "6956+P6Q، المنطقة الحرة الخاصة - ميناء شرق بورسعيد, East of Al Tafreah, Port Said Governorate 8594003",
+        "location": {
+            "latitude": 31.20945,
+            "longitude": 32.36059
+        }
+    },
+    {   "bankId": 3,
+        "name": "CIB",
+        "rating": 0,
+        "address": "صندوق بريد 247, المنطقة الجمركية, بميناء شرق, Port Said Governorate 8594003",
+        "location": {
+            "latitude": 31.21283,
+            "longitude": 32.36156
+        }
+    }
+]

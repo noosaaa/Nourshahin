@@ -1,0 +1,31 @@
+[
+    {
+        "name": "HSBC Bank Egypt - ATM",
+        "rating": 5,
+        "address": "61 ش الجيش، حى الشرق, El Sharq, Port Said Governorate 8573131",
+        "location": {
+            "lat": 31.26489824450997,
+            "lng":  32.3110291167709
+         }  
+    },
+    {
+
+        "name": "HSBC Bank Egypt - ATM",
+        "rating": 4.1,
+        "address": "67VJ+FJ2، حى الشرق، Al Dawahy, Port Said Governorate 8554060",
+        "location": {
+            "lat": 31.243631806793108, 
+            "lng": 32.28149221450678 
+         }
+    },
+    {
+        "name": "HSBC Bank Egypt - ATM",
+        "rating": 4.1,
+        "address": "7876+8F9, El-Gomhoreya, Port Fouad City, Port Said Governorate 8573140",
+        "location": {
+            "lat": 31.263308651846735, 
+            "lng": 32.31122552445878
+         }
+    }
+
+]

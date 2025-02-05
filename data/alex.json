@@ -1,0 +1,66 @@
+[
+    {   "bankId": 4,
+        "name": "بنك الإسكندرية",
+        "rating": 0,
+        "address": "فندق, Tarh Al Bahr",
+        "location": {
+            "latitude": 31.2709291,
+            "longitude": 32.302703
+        }
+    },
+    {   "bankId": 4,
+        "name": "بنك الإسكندرية",
+        "rating": 0,
+        "address": "بورتو سعيد الطريق الساحلي بورسعيد دمياط",
+        "location": {
+            "latitude": 31.2652893,
+            "longitude": 32.3018661
+        }
+    },
+    {   "bankId": 4,
+        "name": "بنك الإسكندرية",
+        "rating": 0,
+        "address": "29الشباب الخرجين، شباب الخرجين",
+        "location": {
+            "latitude": 31.268438,
+            "longitude": 32.263871
+        }
+    },
+    {   "bankId": 4,
+        "name": "بنك الإسكندرية",
+        "rating": 0,
+        "address": "سوبر جت, مدرسة الفيروز الاسراء خلف, الاسراء",
+        "location": {
+            "latitude": 31.2369259,
+            "longitude": 32.2933144
+        }
+    },
+    {   "bankId": 4,
+        "name": "Atm بنك مصر",
+        "rating": 3.5,
+        "address": "7863+28F, Port Said Al Daerah Al Gomrokia",
+        "location": {
+            "latitude": 31.2600589,
+            "longitude": 32.303306
+        }
+    },
+    {   "bankId": 4,
+        "name": "بنك الإسكندرية",
+        "rating": 2.5,
+        "address": "امام جامعة بورسعيد, 9 مساكن الحزب الوطنى, Port Fouad City, Port Said Governorate 8576001",
+        "location": {
+            "latitude": 31.24710130608758,
+            "longitude": 32.31537302332086
+        }
+    },
+    {   "bankId": 4,
+        "name": "بنك الإسكندرية",
+        "rating": 2.5,
+        "address": "18 El-Gomhoreya, والجبرتى, ،, Port Said Governorate 8573142",
+        "location": {
+            "latitude": 31.264278977491102,
+            "longitude": 32.31188984970516
+        }
+    }
+]
+

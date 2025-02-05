@@ -1,0 +1,543 @@
+[
+    
+    {   "bankId":"1",
+        "name": "NBE ATM",
+        "location": {"latitude": 31.2714586, "longitude": 32.2883124},
+        "address": "23 of July St - El, 23-Jul, حى, El Manakh",
+        "rating": 4
+    },
+    {    "bankId":"1",
+        "name": "ATM machine to the National Bank of Egypt",
+        "location": {"latitude": 31.2444924, "longitude": 32.2918062},
+        "address": "67VR+QPW, El Sharq",
+        "rating": 4.3
+    },
+    {   "bankId":"1",
+        "name": "National Bank of Egypt",
+        "location": {"latitude": 31.2640437, "longitude": 32.3114562},
+        "address": "7876+JH8, El Sharq",
+        "rating": 3.7
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - 23 July Branch 2",
+        "location": {"latitude": 31.267077, "longitude": 32.311965},
+        "address": "26 23th July St, 26 23-Jul",
+        "rating": 5
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - Port Fouad Branch 2",
+        "location": {"latitude": 31.2538609, "longitude": 32.3201553},
+        "address": "El Safa St. - Beside Naval Shipyard, Port Said",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - WE - Mansheya (Port Said)",
+        "location": {"latitude": 31.2612559, "longitude": 32.307485},
+        "address": "El-Mansheya Square, El Sharq",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - Port Said Tax Directorate",
+        "location": {"latitude": 31.2690247, "longitude": 32.302987},
+        "address": "23 July Street - Downtown, 23-Jul, وسط المدينة",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - Port said Elementary Court",
+        "location": {"latitude": 31.2665003, "longitude": 32.3030553},
+        "address": "Mohamed Ali St - El shohada square - Port Said",
+        "rating": 5
+    },
+    {"bankId":"1",
+        "name": "NBE ATM",
+        "location": {"latitude": 31.2463689, "longitude": 32.3192836},
+        "address": "El-Galaa, Port Fouad City",
+        "rating": 2
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - Misr Petroleum Port Said",
+        "location": {"latitude": 31.2368718, "longitude": 32.3002559},
+        "address": "مستودع البترول، El Nasr St. - Mostwdaa Petrol، النصر",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - el Nasr central hospital - Port Said",
+        "location": {"latitude": 31.2675826, "longitude": 32.2771741},
+        "address": "El-Nasr Road - el monakh neighborhood - al arab division، طريق النصر، حى المناخ, Al Arab",
+        "rating": 3.7
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - Port Said Branch 1",
+        "location": {"latitude": 31.2638591, "longitude": 32.3111263},
+        "address": "52 El Gomhoureya St, 52 El-Gomhoreya, El Sharq",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - Port Said Branch 3",
+        "location": {"latitude": 31.2638656, "longitude": 32.3111313},
+        "address": "52 El Gomhoureya Street, 52 El-Gomhoreya, El Sharq",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - Branch 23 July 3",
+        "location": {"latitude": 31.2670751, "longitude": 32.3119761},
+        "address": "بجوار القنصلية الصينية, Sea Subtraction Street next to the Chinese Consulate, Tarh Al Bahr",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "البنك الاهلي ATM",
+        "location": {"latitude": 31.2497722, "longitude": 32.2602605},
+        "address": "بجوار كلية الطب",
+        "rating": 5
+    },
+    { "bankId":"1",
+        "name": "ATM - NBE",
+        "location": {"latitude": 31.2364185, "longitude": 32.3179475},
+        "address": "68P9+H58, Port Fouad City",
+        "rating": 1
+    },
+    {"bankId":"1",
+        "name": "NBE ATM, Port Said General Hospital",
+        "location": {"latitude": 31.2639861, "longitude": 32.3049599},
+        "address": "7873+HXW, Safeya Zaghloul, Port Fouad City",
+        "rating": 5
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - Fauclty of Nursing Port Said Universtiy",
+        "location": {"latitude": 31.2679326, "longitude": 32.2984948},
+        "address": "حى العرب, Al Arab",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "ATM - البنك الاهلي المصري",
+        "location": {"latitude": 31.2588554, "longitude": 32.29723},
+        "address": "775W+GWJ, Al Shohadaa, El Sharq",
+        "rating": 4
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - Sun Mall Port Said",
+        "location": {"latitude": 31.2692369, "longitude": 32.2994278},
+        "address": "23 July St., - In Front of Al Harbi Museum ش 23 يوليو - أمام المتحف الحربى",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "اورنج اكسبيريس - ماكينة البنك الأهلي",
+        "location": {"latitude": 31.2546629, "longitude": 32.2779549},
+        "address": "شارع العبور أبراج الحاسب الالي",
+        "rating": 4
+    },
+    {"bankId":"1",
+        "name": "ماكينة صراف الي البنك الاهلي المصري",
+        "location": {"latitude": 31.2445433, "longitude": 32.2918665},
+        "address": "شارع محمد علي بجوار التنمية الصناعية",
+        "rating": 4.3
+    },
+    {"bankId":"1",
+        "name": "البنك الأهلي المصري-ماكينة محطة وطنية ببورسعيد",
+        "location": {"latitude": 31.2474247, "longitude": 32.2906063},
+        "address": "شارع محمد علي",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "البنك الاهلى",
+        "location": {"latitude": 31.2601976, "longitude": 32.3031718},
+        "address": "الدائرة الجمركية بورسعيد، محافظة بورسعيد",
+        "rating": 4
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - Alwatex Company -Port Said",
+        "location": {"latitude": 31.2143849, "longitude": 32.2914591},
+        "address": "بور فؤاد، محافظة بورسعيد",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "البنك الاهلي المصري فرع الكويت ببورسعيد",
+        "location": {"latitude": 31.2617636, "longitude": 32.2881652},
+        "address": "حي الكويت",
+        "rating": 3.3
+    },
+    {"bankId":"1",
+        "name": "إي جي بنك - سنترال الزهور- المصرية للاتصالات ATM",
+        "location": {"latitude": 31.2654606, "longitude": 32.304793},
+        "address": "المصرية للإتصالات - ش عثمان بن عفان, حي, الزهور، محافظة بورسعيد",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "البنك الاهلى المصري فرع الجمرك",
+        "location": {"latitude": 31.2603414, "longitude": 32.3044765},
+        "address": "شارع صلاح سالم، منطقة الجمرك، محافظة بورسعيد",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "البنك الاهلى المصري فرع 23 يوليو",
+        "location": {"latitude": 31.2688669, "longitude": 32.3111785},
+        "address": "بحي شرق، طرح البحر، قسم الشرق، محافظة بورسعيد",
+        "rating": 0
+    },
+    {"bankId":"1",
+        "name": "NBE ATM - University Administration Port Fouad",
+        "location": {"latitude": 31.2456346, "longitude": 32.3060925},
+        "address": "جامعة بورسعيد حي بورفؤاد",
+        "rating": 5
+    },
+
+
+    
+    {   "bankId": "3",
+        "name": "CIB",
+        "rating": 5,
+        "address": "7876+685, El Sharq",
+        "location": {
+            "latitude": 31.2630017,
+            "longitude": 32.3108604
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "مصنع - المنطقه الصناعيه, مجمع 54, مصنع إيدج للملابس - وحدات رقم 65و66",
+        "location": {
+            "latitude": 31.22250,
+            "longitude": 32.28785
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "مستشفى عطاء - شارع الامين والحرية - بجوار, قصر ثقافة بورسعيد، حي, El Manakh",
+        "location": {
+            "latitude": 31.2616239,
+            "longitude": 32.2856129
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - ATM",
+        "rating": 4.1,
+        "address": "مستشفى ال سليمان - 12 شارع الامين - تقاطع, Saad Zaghloul, حى, El Manakh, Port Said Governorate 8563130",
+        "location": {
+            "latitude": 31.2693957,
+            "longitude": 32.2922903
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "داخل الهيئة العامة للاستثمار والمناطق الحرة - حى شرق, Al Shohadaa, El Sharq",
+        "location": {
+            "latitude": 31.2472082,
+            "longitude": 32.2974216
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - Commercial International Bank - ATM",
+        "rating": 4.2,
+        "address": "ش Tarh Al Bahr, حى الشرق، El Sharq",
+        "location": {
+            "latitude": 31.2670361,
+            "longitude": 32.3122386
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "مصنع سومو تومو لصناعه كابلات وضفاير السيارات - المنطقة الصناعية الجنوبية, Al Ganoub",
+        "location": {
+            "latitude": 31.2227563,
+            "longitude": 32.2936867
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "مصنع حديد مصر - المنطقة الصناعية - الرسوة, Al Ganoub",
+        "location": {
+            "latitude": 31.2247555,
+            "longitude": 32.2919536
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "فندق أراكان, شارع عاطف السادات, El Sharq",
+        "location": {
+            "latitude": 31.2710926,
+            "longitude": 32.3080461
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "أوبرا كافيه, El-Shaheed Atef El-Sadat, El Manakh",
+        "location": {
+            "latitude": 31.2719417,
+            "longitude": 32.2944738
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB",
+        "rating": 4,
+        "address": "برج الكاميليا - شارع الجيش, El-Shaheed Gawad Housny, تقاطع, Port Fouad City",
+        "location": {
+            "latitude": 31.2542083,
+            "longitude": 32.3201195
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB",
+        "rating": 0,
+        "address": "1 شارع اطف السادات, تقسيم الامل, Al Arab",
+        "location": {
+            "latitude": 31.2708406,
+            "longitude": 32.3000752
+        }
+    },
+    {  "bankId": "3",
+        "name": "CIB",
+        "rating": 4,
+        "address": "بجوار البنك الاهلى المصرى, شارع 23 يوليو, تقاطع شارع ابو الفدا, El Sharq",
+        "location": {
+            "latitude": 31.2675921,
+            "longitude": 32.3119238
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "رويال لمستحضرات التجميل, كيلو 5 Ismailia - Port Said Rd, Al Ganoub, Port Said Governorate 8528002",
+        "location": {
+            "latitude": 31.20847,
+            "longitude": 32.29732
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB Bank",
+        "rating": 4.6,
+        "address": "77FQ+35M, Al Zaim Ghandi, El Manakh, Port Said Governorate 8563111",
+        "location": {
+            "latitude": 31.27285,
+            "longitude": 32.28790
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - ATM",
+        "rating": 0,
+        "address": "صندوق بريد 247, المنطقة الجمركية, ميناء شرق, Port Said Governorate",
+        "location": {
+            "latitude": 31.21278,
+            "longitude": 32.36155
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB - Commercial International Bank - ATM",
+        "rating": 4.6,
+        "address": "6956+P6Q، المنطقة الحرة الخاصة - ميناء شرق بورسعيد, East of Al Tafreah, Port Said Governorate 8594003",
+        "location": {
+            "latitude": 31.20945,
+            "longitude": 32.36059
+        }
+    },
+    {   "bankId": "3",
+        "name": "CIB",
+        "rating": 0,
+        "address": "صندوق بريد 247, المنطقة الجمركية, بميناء شرق, Port Said Governorate 8594003",
+        "location": {
+            "latitude": 31.21283,
+            "longitude": 32.36156
+        }
+    },
+    {
+        "bankId":"2",
+        "name": "Bank Misr ATM",
+        "rating": "3.7 (Total reviews: 7)",
+        "address": "779F+GV2, Al Zehour, El Manakh",
+        "location": {"latitude": 31.2688704, "longitude": 32.2746729}
+    },
+    {"bankId":"2",
+        "name": "Bank Misr ATM",
+        "rating": "4.0 (Total reviews: 2)",
+        "address": "7798+2FP, Port Said, El-Zohour, El-Manakh",
+        "location": {"latitude": 31.2675822, "longitude": 32.26620460000001}
+    },
+    {"bankId":"2",
+        "name": "Bank Misr ATM",
+        "rating": "4.8 (Total reviews: 5)",
+        "address": "7838+65F, El-Gomhoreya, Port Fouad City",
+        "location": {"latitude": 31.2530525, "longitude": 32.315424}
+    },
+    {"bankId":"2",
+        "name": "ATM Banque Misr",
+        "rating": "2.3 (Total reviews: 3)",
+        "address": "77FJ+2RQ, Saad Zaghloul, Al Arab",
+        "location": {"latitude": 31.2725866, "longitude": 32.2821249}
+    },
+    {"bankId":"2",
+        "name": "Atm بنك مصر",
+        "rating": "3.5 (Total reviews: 6)",
+        "address": "775X+X24, Al Shohadaa, El Sharq",
+        "location": {"latitude": 31.2598978, "longitude": 32.2975682}
+    },
+    {"bankId":"2",
+        "name": "ماكينة صراف آلي بنك مصر ATM",
+        "rating": "4.6 (Total reviews: 5)",
+        "address": "7767+89 Al Zohour",
+        "location": {"latitude": 31.26096, "longitude": 32.26339}
+    },
+    {"bankId":"2",
+        "name": "Atm بنك مصر",
+        "rating": "3.5 (Total reviews: 2)",
+        "address": "7863+28F, Port Said Al Daerah Al Gomrokia",
+        "location": {"latitude": 31.2600589, "longitude": 32.303306}
+    },
+    {"bankId":"2",
+        "name": "Banque Misr",
+        "rating": "3.5 (Total reviews: 24)",
+        "address": "7865+HPP, Port Fouad City",
+        "location": {"latitude": 31.2614543, "longitude": 32.3093383}
+    },
+    {"bankId":"2",
+        "name": "Banque Misr ATM",
+        "rating": "0 (No reviews)",
+        "address": "779G+2WG, El-Nasr Road, El Manakh",
+        "location": {"latitude": 31.2675536, "longitude": 32.2773284}
+    },
+    {"bankId":"2",
+        "name": "ماكينة بنك مصر",
+        "rating": "0 (No reviews)",
+        "address": "777F+Q52, Al Asher Men Ramadan, Al Zehour, El Manakh",
+        "location": {"latitude": 31.2643662, "longitude": 32.2728606}
+    },
+    
+    { "bankId":"5",
+      "name": "Bank Du Caire",
+      "rating": 4,
+      "address": "7876+MQ3, Port Fouad City",
+      "location": {
+        "lat": 31.2640443,
+        "lng": 32.3118452
+      }
+    },
+    {"bankId":"5",
+      "name": "Banque du Caire ATM",
+      "rating": 0,
+      "address": "779G+2V, El Manakh",
+      "location": {
+        "lat": 31.2675897,
+        "lng": 32.2771768
+      }
+    },
+    {"bankId":"5",
+      "name": "Bank Cairo ATM",
+      "rating": 5,
+      "address": "775V+M47, El-Nasr, Al Ezab, Al Arab",
+      "location": {
+        "lat": 31.2591733,
+        "lng": 32.292805
+      }
+    },
+    {"bankId":"5",
+      "name": "A T M. Cairo Bank",
+      "rating": 3,
+      "address": "68X6+JGP, Port Said Al Daerah Al Gomrokia",
+      "location": {
+        "lat": 31.2490759,
+        "lng": 32.3113393
+      }
+    },
+     {   "bankId": "4",
+        "name": "بنك الإسكندرية",
+        "rating": 0,
+        "address": "فندق, Tarh Al Bahr",
+        "location": {
+            "latitude": 31.2709291,
+            "longitude": 32.302703
+        }
+    },
+    {   "bankId": "4",
+        "name": "بنك الإسكندرية",
+        "rating": 0,
+        "address": "بورتو سعيد الطريق الساحلي بورسعيد دمياط",
+        "location": {
+            "latitude": 31.2652893,
+            "longitude": 32.3018661
+        }
+    },
+    {   "bankId": "4",
+        "name": "بنك الإسكندرية",
+        "rating": 0,
+        "address": "29الشباب الخرجين، شباب الخرجين",
+        "location": {
+            "latitude": 31.268438,
+            "longitude": 32.263871
+        }
+    },
+    {   "bankId":"4",
+        "name": "بنك الإسكندرية",
+        "rating": 0,
+        "address": "سوبر جت, مدرسة الفيروز الاسراء خلف, الاسراء",
+        "location": {
+            "latitude": 31.2369259,
+            "longitude": 32.2933144
+        }
+    },
+    {   "bankId": "4",
+        "name": "Atm بنك مصر",
+        "rating": 3.5,
+        "address": "7863+28F, Port Said Al Daerah Al Gomrokia",
+        "location": {
+            "latitude": 31.2600589,
+            "longitude": 32.303306
+        }
+    },
+    {   "bankId": "4",
+        "name": "بنك الإسكندرية",
+        "rating": 2.5,
+        "address": "امام جامعة بورسعيد, 9 مساكن الحزب الوطنى, Port Fouad City, Port Said Governorate 8576001",
+        "location": {
+            "latitude": 31.24710130608758,
+            "longitude": 32.31537302332086
+        }
+    },
+    {   "bankId": "4",
+        "name": "بنك الإسكندرية",
+        "rating": 2.5,
+        "address": "18 El-Gomhoreya, والجبرتى, ،, Port Said Governorate 8573142",
+        "location": {
+            "latitude": 31.264278977491102,
+            "longitude": 32.31188984970516
+        }
+    },
+    
+    {
+        "bankId":"6",
+        "name": "HSBC Bank Egypt - ATM",
+        "rating": 5,
+        "address": "61 ش الجيش، حى الشرق, El Sharq, Port Said Governorate 8573131",
+        "location": {
+            "lat": 31.26489824450997,
+            "lng":  32.3110291167709
+         }  
+    },
+    {
+        "bankId":"6",
+        "name": "HSBC Bank Egypt - ATM",
+        "rating": 4.1,
+        "address": "67VJ+FJ2، حى الشرق، Al Dawahy, Port Said Governorate 8554060",
+        "location": {
+            "lat": 31.243631806793108, 
+            "lng": 32.28149221450678 
+         }
+    },
+    {
+        "bankId":"6",
+        "name": "HSBC Bank Egypt - ATM",
+        "rating": 4.1,
+        "address": "7876+8F9, El-Gomhoreya, Port Fouad City, Port Said Governorate 8573140",
+        "location": {
+            "lat": 31.263308651846735, 
+            "lng": 32.31122552445878
+         }
+    }
+
+]
+
+

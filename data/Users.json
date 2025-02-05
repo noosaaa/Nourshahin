@@ -1,0 +1,42 @@
+[
+{
+    "name": "Alice",
+    "email": "alice@example.com",
+    "password": "password123"
+},
+{
+    "name": "Bob",
+    "email": "bob.smith@example.com",
+    "password": "bob1234"
+},
+{
+    "name": "Charlie",
+    "email": "charlie123@domain.com",
+    "password": "charliePass5"
+},
+{
+    "name": "David",
+    "email": "david.jones@company.com",
+    "password": "davidsPass123"
+},
+{
+    "name": "Eve",
+    "email": "eve_99@mail.net",
+    "password": "eveSecure123"
+},
+{
+    "name": "john",
+    "email": "john.doe@example.com",
+    "password": "password123"
+},
+{
+    "name": "Alice",
+    "email": "aliceexample.com",
+    "password": "password123"
+},
+{
+    "name": "Bob",
+    "email": "bob@example.com",
+    "password": "bob"
+}
+]
